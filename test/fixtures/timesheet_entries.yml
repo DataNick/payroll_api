@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  job_group: one
+  workday: 2023-09-12
+  hours: 1
+  report_id: 1
+
+two:
+  employee: two
+  job_group: two
+  workday: 2023-09-12
+  hours: 1
+  report_id: 1
